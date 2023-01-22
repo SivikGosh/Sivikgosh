@@ -1,4 +1,4 @@
-#### Hi!✨ I'm Georgiy, backend-developer
+#### Hi!✨ I'm Goshamba, backend-developer.
 
 + Yandex.Practikum graduate
 
