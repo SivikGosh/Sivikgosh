@@ -1,1 +1,2 @@
--_-
+### Contacts | Контакты:
+<a href='https://t.me/sivikgosh' target='_blank'><img src='https://img.shields.io/badge/SivikGosh-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white'></a> <a href='mailto:sivik@protonmail.com'><img src='https://img.shields.io/badge/sivik@protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white'> <a href='https://www.linkedin.com/in/sivikgosh/' target='_blank'><img src='https://img.shields.io/badge/Georgiy Markarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white'></a>
