@@ -1,11 +1,23 @@
-### Contacts
-<a href='https://t.me/sivikgosh' target='_blank'><img src='https://img.shields.io/badge/SivikGosh-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white'></a> <a href='mailto:sivik@protonmail.com'><img src='https://img.shields.io/badge/sivik@protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white'> <a href='https://www.linkedin.com/in/sivikgosh/' target='_blank'><img src='https://img.shields.io/badge/Georgiy Markarov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+<div align="center">
 
-### Stack
-<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'> <img src='https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black'>
-celery #37814A
-css3 #1572B6
-dbeaver #382923
+# You can contact with me by
+<a href='https://t.me/sivikgosh' target='_blank'><img src='https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=26A5E4'><img src='https://img.shields.io/badge/@SivikGosh-26A5E4?style=for-the-badge'></a>
+<a href='mailto:sivik@protonmail.com'><img src='https://img.shields.io/badge/Proton Mail-white?style=for-the-badge&logo=protonmail&logoColor=6D4AFF'><img src='https://img.shields.io/badge/sivik@protonmail.com-6D4AFF?style=for-the-badge'></a>
+<a href='https://www.linkedin.com/in/sivikgosh/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2'><img src='https://img.shields.io/badge/Georgiy Markarov-0A66C2?style=for-the-badge'></a>
+
+</div>
+
+<div align="center">
+  
+##  My Stack & Tools
+<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+<img src='https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black'>
+<img src='https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white'>
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+<img src='https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white'>
+
+</div>
+
 diagramsdotnet #F08705
 django #092E20
 docker #2496ED
