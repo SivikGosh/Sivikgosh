@@ -17,16 +17,15 @@
 <img src='https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white'>
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
 <img src='https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white'>
-
 <img src='https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white'>
 <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white'>
 <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white'>
+<img src='https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white'>
+<img src='https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white'>
+<img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'>
 
 </div>
 
-fastapi #009688
-filezilla #BF0000
-flask #000000
 git #F05032
 gitlab #FC6D26
 google #4285F4
