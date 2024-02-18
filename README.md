@@ -33,7 +33,6 @@ grafana #F46800
 gunicorn #499848
 
 ### Learning
-<img src='https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white'>
 bitbucket #ED1C24
 cisco #1BA0D7
 clickhouse #FFCC01
@@ -42,3 +41,6 @@ figma #F24E1E
 freecodecamp #0A0A23
 go #00ADD8
 graphql #E10098
+
+### Wish to learn
+<a href='https://docs.aiohttp.org/en/stable/' target='_blank'><img src='https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white'></a>
