@@ -44,3 +44,4 @@ graphql #E10098
 
 ### Wish to learn
 <a href='https://docs.aiohttp.org/en/stable/' target='_blank'><img src='https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white'></a>
+<a href='https://angular.io/' target='_blank'><img src='https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white'></a>
