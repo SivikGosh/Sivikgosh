@@ -8,6 +8,7 @@
 <a href='https://www.linkedin.com/in/sivikgosh/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2'><img src='https://img.shields.io/badge/Georgiy Markarov-0A66C2?style=for-the-badge'></a>
 
 </div>
+<hr>
 <div align="center">
 
 ###  I'm on
@@ -28,9 +29,7 @@
 <a href='https://www.ansible.com/' target='_blank'><img src='https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white'></a>
 <a href='https://bitbucket.org/' target='_blank'><img src='https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white'></a>
 <a href='https://getbootstrap.com/' target='_blank'><img src='https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white'></a>
-
----
-
+<hr>
 E
 
 </div>
