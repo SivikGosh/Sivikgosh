@@ -6,4 +6,4 @@
 
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/018d7595-2914-4846-9307-4d24f3b5a342.svg)](https://wakatime.com/@018d7595-2914-4846-9307-4d24f3b5a342)
+[![wakatime](https://wakatime.com/badge/user/018d7595-2914-4846-9307-4d24f3b5a342.svg?style=for-the-badge)](https://wakatime.com/@018d7595-2914-4846-9307-4d24f3b5a342)
