@@ -1,5 +1,13 @@
 <div align="center">
   
+<!-- ### Technologies
+
+| <img src='https://img.shields.io/badge/Languages-white?style=for-the-badge'> | <img src='https://img.shields.io/badge/Databases-white?style=for-the-badge'> | <img src='https://img.shields.io/badge/Frameworks-white?style=for-the-badge'> |
+|:-:|:-:|:-:|
+| <img src='https://img.shields.io/badge/Python-4B8BBE?style=flat-square'> | <img src='https://img.shields.io/badge/Alembic-1475CF?style=flat-square'> <img src='https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square'> | <img src='https://img.shields.io/badge/FastAPI-009688?style=flat-square'> |
+
+<br> -->
+  
 ## **Contacts**
 <a href='https://t.me/sivikgosh' target='_blank'><img src='https://img.shields.io/badge/SivikGosh-white?style=for-the-badge&logo=Telegram&logoColor=26A5E4'></a>
 <a href='mailto:sivik@protonmail.com' target='_blank'><img src='https://img.shields.io/badge/sivik@protonmail.com-white?style=for-the-badge&logo=protonmail&logoColor=6D4AFF'></a>
